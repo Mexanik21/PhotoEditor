@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "251297786391",
+    "project_id": "myphotoeditor-af57f",
+    "storage_bucket": "myphotoeditor-af57f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251297786391:android:0af540c04c0d7cc5060a52",
+        "android_client_info": {
+          "package_name": "com.example.photoeditor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "251297786391-80684qllhaotfntgmcbs8u0r4am9okvu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPCG-ah5e8UMwogfXGpcMlEwk4oC_TGtM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "251297786391-80684qllhaotfntgmcbs8u0r4am9okvu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
